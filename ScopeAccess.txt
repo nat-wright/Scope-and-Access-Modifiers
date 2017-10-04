@@ -1,0 +1,13 @@
+Scopes are an area or section of code that a variable is able to be used in.
+Code blocks are what normally define a variable's scope
+Defines visibility to the rest of the program
+The entire method after the declaration
+A variable can be used inside this method but once its control is passed to another method it is unavailable
+A scoped variable can be used in a loop
+
+Access modifiers are key words placed before a data type when declaring a variable.
+public/private
+If a script needs access to a variable/function then the access modifier should be public, if not then private
+Declaring as public means it can be accessed from outside the class
+Private variables can only be edited from within the class
+In C# private is the default 
